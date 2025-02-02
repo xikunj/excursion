@@ -1,0 +1,55 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+video {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    autoplay: true;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+.footnote {
+    color: gray;
+    text-align: right;
+}
+
+* {
+    font-family: Verdana, sans-serif;
+}
